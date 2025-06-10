@@ -1,4 +1,4 @@
-# n8n-nodes-myktiplier
+# n8n-nodes-multiplier
 
 This is an n8n community node. It lets you use mathematical multiplier in your n8n workflows.
 
